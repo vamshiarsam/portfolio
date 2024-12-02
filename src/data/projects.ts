@@ -7,8 +7,8 @@ export const projectsData: ProjectItem[] = [
       "A modern job portal application connecting talent with opportunities",
     image: "hirrd.png",
     tech: ["React", "Node.js", "MongoDB", "Express"],
-    github: "https://github.com",
-    live: "https://hirrd.vercel.app/",
+    github: "https://youtu.be/2XF-HgauItk?si=xnuz7_gpUVBBgdW6",
+    live: "https://youtu.be/2XF-HgauItk?si=xnuz7_gpUVBBgdW6",
     details: {
       problem:
         "Traditional job boards lack modern features and user experience",
@@ -28,8 +28,8 @@ export const projectsData: ProjectItem[] = [
     description: "A Calendly clone for seamless meeting scheduling",
     image: "schedulrr.png",
     tech: ["Next.js", "TypeScript", "Prisma", "tRPC"],
-    github: "https://github.com",
-    live: "https://schedulrr.vercel.app/",
+    github: "https://youtu.be/glAC7d-TYSM?si=KW5Wrdeh5uVPpu7c",
+    live: "https://youtu.be/glAC7d-TYSM?si=KW5Wrdeh5uVPpu7c",
     details: {
       problem: "Complex meeting scheduling across time zones",
       solution:
@@ -48,8 +48,8 @@ export const projectsData: ProjectItem[] = [
     description: "A Jira-inspired project management solution",
     image: "zcrum.png",
     tech: ["React", "Redux", "Node.js", "PostgreSQL"],
-    github: "https://github.com",
-    live: "https://getzcrum.vercel.app/",
+    github: "https://youtu.be/R5dBYINNouY?si=9x7lSDuqwJ0ojtIg",
+    live: "https://youtu.be/R5dBYINNouY?si=9x7lSDuqwJ0ojtIg",
     details: {
       problem: "Need for a simplified project management tool for small teams",
       solution:
@@ -68,8 +68,8 @@ export const projectsData: ProjectItem[] = [
     description: "A minimalist journaling application",
     image: "reflct.png",
     tech: ["Next.js", "Tailwind CSS", "Supabase"],
-    github: "https://github.com",
-    live: "https://getreflct.vercel.app/",
+    github: "https://youtu.be/R5dBYINNouY?si=9x7lSDuqwJ0ojtIg",
+    live: "https://youtu.be/R5dBYINNouY?si=9x7lSDuqwJ0ojtIg",
     details: {
       problem: "Digital journaling apps are often cluttered and complex",
       solution:
