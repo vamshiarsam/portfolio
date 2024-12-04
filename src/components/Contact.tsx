@@ -71,7 +71,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-600">Email</p>
-                  <p className="text-gray-900 font-medium">contact@roadsidecoder.com</p>
+                  <p className="text-gray-900 font-medium">arsam.vamshi@gmail.com</p>
                 </div>
               </motion.div>
               
@@ -84,14 +84,14 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-600">Location</p>
-                  <p className="text-gray-900 font-medium">Bangalore, India</p>
+                  <p className="text-gray-900 font-medium">Hyderabad, India</p>
                 </div>
               </motion.div>
             </div>
           </motion.div>
 
           {/* Contact Form */}
-          <motion.form
+          {/* <motion.form
             ref={formRef}
             onSubmit={handleSubmit}
             className="space-y-6"
@@ -152,7 +152,7 @@ export default function Contact() {
                 </>
               )}
             </motion.button>
-          </motion.form>
+          </motion.form> */}
         </motion.div>
       </div>
     </section>

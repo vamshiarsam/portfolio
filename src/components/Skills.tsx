@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { fadeInUp, staggerContainer } from '../utils/animations';
 
 const skills = [
+
   {
     category: 'Frontend Development',
     icon: Globe,
@@ -11,28 +12,28 @@ const skills = [
   {
     category: 'Backend Development',
     icon: Server,
-    skills: ['Node.js', 'Express', 'Python', 'Django', 'REST APIs'],
+    skills: ['Node.js', 'Express', 'Nest js', 'REST APIs','Strapi'],
   },
   {
     category: 'Database',
     icon: Database,
-    skills: ['PostgreSQL', 'MongoDB', 'Redis', 'Firebase'],
-  },
-  {
-    category: 'DevOps',
-    icon: Terminal,
-    skills: ['Docker', 'AWS', 'CI/CD', 'Linux', 'Git'],
+    skills: ['PostgreSQL', 'MongoDB', 'Redis', 'Firebase','Supabase'],
   },
   {
     category: 'Programming Languages',
     icon: Code,
-    skills: ['JavaScript', 'TypeScript', 'Python', 'Java', 'SQL'],
+    skills: ['JavaScript', 'TypeScript', 'Go Language','SQL'],
   },
   {
-    category: 'Design',
-    icon: Palette,
-    skills: ['Figma', 'Adobe XD', 'UI/UX', 'Responsive Design'],
+    category: 'Microsoft Power platform',
+    icon: Globe,
+    skills: ['Power apps', 'Power automate', 'Sharepoint',  'PCF'],
   },
+  // {
+  //   category: 'Design',
+  //   icon: Palette,
+  //   skills: ['Figma', 'Adobe XD', 'UI/UX', 'Responsive Design'],
+  // },
 ];
 
 export default function Skills() {

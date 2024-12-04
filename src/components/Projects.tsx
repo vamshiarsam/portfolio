@@ -6,11 +6,12 @@ import ProjectModal from './ProjectModal';
 import type { ProjectItem } from '../types';
 
 export default function Projects() {
-  const [selectedProject, setSelectedProject] = useState<ProjectItem | null>(null);
+  // const [selectedProject, setSelectedProject] = useState<ProjectItem | null>(null);
 
   return (
-    <section id="projects" className="py-20 bg-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section id="projects" className="">
+        {/* <section id="projects" className="py-20 bg-white"></section> */}
+      {/* <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.h2 
           className="text-3xl md:text-4xl font-bold text-center mb-16"
           initial={{ opacity: 0, y: 20 }}
@@ -93,13 +94,13 @@ export default function Projects() {
             </motion.div>
           ))}
         </motion.div>
-      </div>
+      </div> */}
 
-      <ProjectModal
+      {/* <ProjectModal
         project={selectedProject!}
         isOpen={!!selectedProject}
         onClose={() => setSelectedProject(null)}
-      />
+      /> */}
     </section>
   );
 }
