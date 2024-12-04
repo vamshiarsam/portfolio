@@ -57,9 +57,9 @@ export default function Contact() {
             variants={fadeInUp}
           >
             <h3 className="text-2xl font-bold text-gray-900">Let's talk about everything!</h3>
-            <p className="text-gray-600">
+            {/* <p className="text-gray-600">
               Feel free to reach out for collaborations, opportunities, or just a friendly chat.
-            </p>
+            </p> */}
             
             <div className="space-y-6">
               <motion.div 

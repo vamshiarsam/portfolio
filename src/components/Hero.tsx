@@ -75,7 +75,8 @@ export default function Hero() {
             className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto"
             variants={fadeInUp}
           >
-            Full Stack Developer | UI/UX Enthusiast | Problem Solver
+            {/* Full Stack Developer | UI/UX Enthusiast | Problem Solver */}
+            Full Stack Developer 
           </motion.p>
 
           <motion.div 

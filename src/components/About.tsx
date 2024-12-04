@@ -28,7 +28,7 @@ export default function About() {
           >
             <img
               src="/port.jpeg"
-              alt="Piyush Agarwal"
+              alt="Vamshi Agarwal"
               className="w-full  rounded-2xl"
             />
             
