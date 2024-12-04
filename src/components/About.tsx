@@ -31,6 +31,7 @@ export default function About() {
               alt="Piyush Agarwal"
               className="w-full  rounded-2xl"
             />
+            
           </motion.div>
 
           <motion.div className="space-y-6" variants={staggerContainer}>

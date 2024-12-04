@@ -2,8 +2,8 @@ import { ProjectItem } from "../types";
 
 export const projectsData: ProjectItem[] = [
   {
-    title: "Hirrd",
-    description:
+    title: "Hirrd ",
+    description: 
       "A modern job portal application connecting talent with opportunities",
     image: "hirrd.png",
     tech: ["React", "Node.js", "MongoDB", "Express"],
